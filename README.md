@@ -8,7 +8,7 @@ _(juste en dessous des badges sympatiques à placer)_
 Dans ce projet, j'ai travaillé sur le site d'un hôtel. Le template a été fourni dans le cadre de l'exercice : j'ai dû ensuite entièrement restructurer le site en respectant le modèle MVC, en utilisant PHP et SQL.
 L'exercice demandait de repérer les éléments "récurrents" et susceptibles d'être modifiés par le gérant du site, afin de stocker ces éléments dans une base de données.
 Ce projet comporte donc le code du site, ainsi qu'un compte rendu expliquant mon analyse, mon cheminement et les obstacles rencontrés.
-Pour plus de détails : <a href="[https://github.com/cdrcleroy/hotelMVC/doc/compte_rendu.pdf](https://github.com/cdrcleroy/hotelMVC/blob/main/doc/compte_rendu.pdf)"><strong>Compte rendu</strong></a>
+Pour plus de détails : <a href="(https://github.com/cdrcleroy/hotelMVC/blob/main/doc/compte_rendu.pdf)"><strong>Compte rendu</strong></a>
 
 
 ### Pré-requis
