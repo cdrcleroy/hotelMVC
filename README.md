@@ -26,7 +26,7 @@ Choisissez le dossier "public" pour désigner la page d'accueil du site.
 ## Fabriqué avec
 
 * [HTML 5]
-* [CSS](https://atom.io/)
+* [CSS]
 * [VS Code](https://code.visualstudio.com/) - Editeur de textes
 * [MySQL](https://www.mysql.com/fr/)
 * [AltoRouter](https://github.com/dannyvankooten/AltoRouter) - Routeur optimisé
